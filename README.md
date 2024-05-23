@@ -2,6 +2,9 @@
 Program written in python to compete in the TELECO GAMES
 
 
+![M5 Stick runing the program](m5stick.jpg)
+
+
 # Code Explanation
 
 This Python script is used to configure and control an M5StickC device. The M5StickC is an IoT (Internet of Things) device based on ESP32 that has a variety of features, including an LCD screen, an accelerometer, and WiFi connectivity capabilities.
